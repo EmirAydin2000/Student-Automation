@@ -1,0 +1,13 @@
+C:\Users\a\Desktop\C#\Student Automation\Automation\bin\Debug\Automation.exe.config
+C:\Users\a\Desktop\C#\Student Automation\Automation\bin\Debug\Automation.exe
+C:\Users\a\Desktop\C#\Student Automation\Automation\bin\Debug\Automation.pdb
+C:\Users\a\Desktop\C#\Student Automation\Automation\obj\Debug\Automation.csprojAssemblyReference.cache
+C:\Users\a\Desktop\C#\Student Automation\Automation\obj\Debug\Automation.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\C#\Student Automation\Automation\obj\Debug\Automation.exe
+C:\Users\a\Desktop\C#\Student Automation\Automation\obj\Debug\Automation.pdb
+C:\Users\Admin\Desktop\Coding\C#\Student Automation\Automation\bin\Debug\Automation.exe.config
+C:\Users\Admin\Desktop\Coding\C#\Student Automation\Automation\bin\Debug\Automation.exe
+C:\Users\Admin\Desktop\Coding\C#\Student Automation\Automation\bin\Debug\Automation.pdb
+C:\Users\Admin\Desktop\Coding\C#\Student Automation\Automation\obj\Debug\Automation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Coding\C#\Student Automation\Automation\obj\Debug\Automation.exe
+C:\Users\Admin\Desktop\Coding\C#\Student Automation\Automation\obj\Debug\Automation.pdb
